@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Infrastructure\\Bravi.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\Bravi.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\Bravi.Application.csproj",
+        "projectName": "Bravi.Application",
+        "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\Bravi.Application.csproj",
+        "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj": {
+                "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj",
+        "projectName": "Bravi.Domain",
+        "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj",
+        "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Infrastructure\\Bravi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Infrastructure\\Bravi.Infrastructure.csproj",
+        "projectName": "Bravi.Infrastructure",
+        "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Infrastructure\\Bravi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Nil\\.nuget\\packages\\",
+        "outputPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\Bravi.Application.csproj": {
+                "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Application\\Bravi.Application.csproj"
+              },
+              "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj": {
+                "projectPath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

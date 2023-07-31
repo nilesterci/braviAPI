@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "xzbB0YmdNjA1+8oZwkJiUBUkr4FWjYhGi1nAOhX5OU5+f4CDdJVaT8Il5AEqUNloixTtWJJPdpSoVsanGkqI5Q==",
+  "success": true,
+  "projectFilePath": "D:\\DEV\\C#\\Testes Técnicos\\Bravi\\Back\\Bravi\\Bravi.Core\\Bravi.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nil\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Nil\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Nil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Nil\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Nil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

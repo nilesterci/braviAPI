@@ -1,0 +1,12 @@
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\bin\Debug\net6.0\Bravi.Core.deps.json
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\bin\Debug\net6.0\Bravi.Core.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\bin\Debug\net6.0\Bravi.Core.pdb
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.csproj.AssemblyReference.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.AssemblyInfoInputs.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.AssemblyInfo.cs
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\refint\Bravi.Core.dll
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\Bravi.Core.pdb
+D:\DEV\C#\Testes Técnicos\Bravi\Back\Bravi\Bravi.Core\obj\Debug\net6.0\ref\Bravi.Core.dll
