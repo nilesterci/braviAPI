@@ -42,11 +42,11 @@ namespace Bravi.API.Controllers
         public async Task<IActionResult> Update([FromBody] UpdateNewPerson person)
         {
             var result = await _personService.Update(person);
-            if (result)
+            if (result == null)
                 return NoContent();
 
 
-            return BadRequest();
+            return Ok(result);
 
         }
 
@@ -54,11 +54,11 @@ namespace Bravi.API.Controllers
         public async Task<IActionResult> Delete(Guid id)
         {
             var result = await _personService.Delete(id);
-            if (result)
+            if (result == null)
                 return NoContent();
 
 
-            return BadRequest();
+            return Ok(id);
         }
 
         [HttpPost]
@@ -88,7 +88,7 @@ namespace Bravi.API.Controllers
                 return BadRequest();
             }
 
-            return NoContent();
+            return Ok(id);
         }
 
 
